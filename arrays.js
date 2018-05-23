@@ -17,21 +17,26 @@ var chocolateBars = [
   }
 
  function destructivelyAddElementToEndOfArray(array, element) {
-    array.push(element)
-    return array
+    array.push(element);
+    return array;
   }
   
   var cookies = [
     "Chocolate Chip",
     "Oatmeal",
-    "Peanut Butter"]
+    "Peanut Butter"];
   
   function accessElementInArray(array, index) {
-    return array[index]
+    return array[index];
   }
   
   function destructivelyRemoveElementFromBeginningOfArray(array) {
-    array.shift()
-    return array
+    array.shift();
+    return array;
+  }
+  
+  function removeElementFromBeginningOfArray(array) {
+    array.slice();
+    return array;
   }
   
