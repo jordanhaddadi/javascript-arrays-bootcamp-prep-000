@@ -48,3 +48,4 @@ function removeElementFromEndOfArray(array) {
   return array.pop(3);
 }
 
+function removeElementFr
