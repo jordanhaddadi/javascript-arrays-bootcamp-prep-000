@@ -27,7 +27,7 @@ var chocolateBars = [
     "Peanut Butter"]
   
   function accessElementInArray(array) {
-    return array.2
+    return array.cookies[1]
   }
   
   
