@@ -48,4 +48,6 @@ function removeElementFromEndOfArray(array) {
   return array.pop(3);
 }
 
-function removeElementFr
+function removeElementFromEndOfArray(array){
+  return array.slice(0, array.length - 1);
+}
