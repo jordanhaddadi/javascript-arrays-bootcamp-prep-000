@@ -40,7 +40,7 @@ var chocolateBars = [
   }
 
   function destructivelyRemoveElementFromBeginningOfArray(array) {
-    array.slice();
-    return array;
+    array.shift()
+    array
   }  
   
