@@ -31,8 +31,5 @@ var chocolateBars = [
   }
   
   
-    
-    
-  }
   
   
