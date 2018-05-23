@@ -30,6 +30,8 @@ var chocolateBars = [
     return array[index]
   }
   
-  
+  function destructivelyRemoveElementFromBeginningOfArray(array) {
+    
+  }
   
   
