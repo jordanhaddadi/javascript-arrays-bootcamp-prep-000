@@ -21,6 +21,11 @@ var chocolateBars = [
     return array
   }
   
+  var cookies = [
+    "Chocolate Chip",
+    "Oatmeal",
+    "Peanut Butter"]
+  
   function accessElementInArray(array, index) {
     return array
   }
