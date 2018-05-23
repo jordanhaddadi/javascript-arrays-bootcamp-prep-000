@@ -26,7 +26,7 @@ var chocolateBars = [
     "Oatmeal",
     "Peanut Butter"]
   
-  function accessElementInArray(array) {
+  function accessElementInArray(array, index) {
     return array[index]
   }
   
